@@ -1,0 +1,16 @@
+# Files
+
+README.md
+.env
+.env.\*
+!.env.example
+
+# Folders
+
+.DS_Store
+/node_modules
+/build
+/dist
+/.astro
+
+yarn.lock
